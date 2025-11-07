@@ -1,0 +1,35 @@
+========== SYSTEM SUMMARY REPORT ==========
+Report generated on: Fri Nov  7 16:24:39 UTC 2025
+
+🖥️  HOSTNAME: LAPTOP-9RVQL09S
+🧰  OS VERSION: Ubuntu 24.04.3 LTS
+⏱️  SYSTEM UPTIME: up 42 minutes
+
+💾  MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       507Mi       3.2Gi       3.2Mi       230Mi       3.3Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+💽  DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.9G     0  1.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+drivers         242G  167G   76G  69% /usr/lib/wsl/drivers
+/dev/sdc       1007G  1.3G  955G   1% /
+none            1.9G   88K  1.9G   1% /mnt/wslg
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+rootfs          1.9G  2.4M  1.9G   1% /init
+none            1.9G  496K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G     0  1.9G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+C:\             242G  167G   76G  69% /mnt/c
+D:\             233G  4.1G  229G   2% /mnt/d
+tmpfs           386M   16K  386M   1% /run/user/1000
+
+👤  LOGGED-IN USERS:
+abhilipsa pts/1        2025-11-06 19:06
+
+===========================================
